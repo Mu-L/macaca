@@ -2,7 +2,7 @@
   <a href="//macacajs.github.io">
     <img
       alt="Macaca"
-      src="https://macacajs.github.io/macaca-logo/svg/monkey.svg"
+      src="https://macacajs.github.io/macaca-ecosystem/macaca-logo/svg/monkey.svg"
       width="200"
     />
   </a>
@@ -26,11 +26,11 @@ Macaca 是一套面向用户端软件的测试解决方案，提供了自动化�
 
 ## 系统架构
 
-![](https://macacajs.com/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
+![](https://macacajs.github.io/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg)
 
 ## 社区生态
 
-![](https://macacajs.com/assets/88fe9010gy1g1u1juuz3hj20rz0kwafl.jpg)
+![](https://macacajs.github.io/assets/88fe9010gy1g1u1juuz3hj20rz0kwafl.jpg)
 
 ## 标准化
 
@@ -38,7 +38,7 @@ Macaca 提供了标准化的驱动层，消除了各技术平台测试技术栈�
 
 ## 多语言栈支持
 
-Macaca 提供 [Node.js](https://macacajs.com/guide/nodejs.html)，[Java](https://macacajs.com/guide/java.html) 和 [Python](https://macacajs.com/guide/python.html) 三大主流的语言栈，方便工程师和所在团队选择合适的开发语言。
+Macaca 提供 [Node.js](https://macacajs.github.io/guide/nodejs.html)，[Java](https://macacajs.github.io/guide/java.html) 和 [Python](https://macacajs.github.io/guide/python.html) 三大主流的语言栈，方便工程师和所在团队选择合适的开发语言。
 
 由于 Macaca 的工具链基于 Node.js，这个因素使得 Node.js 技术栈提供的支持和周边工具会相对多。Java 与 Python 有大量用实践，社区共享与贡献较多，也是很好的选择。
 

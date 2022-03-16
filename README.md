@@ -2,7 +2,7 @@
   <a href="//macacajs.github.io">
     <img
       alt="Macaca"
-      src="https://macacajs.github.io/macaca-logo/svg/monkey.svg"
+      src="https://macacajs.github.io/macaca-ecosystem/macaca-logo/svg/monkey.svg"
       width="200"
     />
   </a>
@@ -23,7 +23,7 @@ Macaca is an open-source automation solution for multi-platform.
 At its core, Macaca is an end-to-end test automation framework consisting of clients, servers and drivers.
 
 <p align="center">
-  <img src="https://macacajs.com/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg" width="740px">
+  <img src="https://macacajs.github.io/assets/88fe9010gy1g1k8o53d0ej20wb0ggwgu.jpg" width="740px">
 </p>
 
 ### Client
@@ -58,7 +58,7 @@ Macaca supports major browsers such as Chrome, Firefox, Safari. It also supports
 ## Macaca Community Ecosystem
 
 <p align="center">
-  <img src="https://macacajs.com/assets/88fe9010gy1g1u1s0bzwsj20rz0kwtdx.jpg" width="740px">
+  <img src="https://macacajs.github.io/assets/88fe9010gy1g1u1s0bzwsj20rz0kwtdx.jpg" width="740px">
 </p>
 
 ### Macaca DataHub
@@ -126,7 +126,7 @@ App-inspector is a mobile UI viewer in browser. View the UI in a tree view, and 
   <img src="https://macacajs.github.io/app-inspector/assets/7dfcf2f7gw1f77ev6csw5g20s50iwe81.gif" width="740px">
 </p>
 
-* [Website](https://macacajs.com/app-inspector/)
+* [Website](https://macacajs.github.io/app-inspector/)
 * [GitHub](https://github.com/macacajs/app-inspector)
 
 ### Macaca UITest
